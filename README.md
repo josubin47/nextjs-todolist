@@ -1,7 +1,5 @@
 # Next.js 공식 홈페이지 문서를 학습하며 Todolist 만들기
 
----
-
 ### 사용 기술
 
 - React
@@ -10,7 +8,9 @@
 
 ## Next.js 이론 학습
 
----
+### Next.js란
+
+React의 SSR(Server Side Rendering)을 쉽게 구현할 수 있게 도와주는 간단한 프레임워크
 
 ### 다른 페이지를 만드는 방법
 
@@ -304,8 +304,6 @@ export default function handler(req, res) {
 ### [데이터 가져오기를 위한 React Hooks : SWR](https://swr.vercel.app/ko)
 
 ## 참고
-
----
 
 Next.js 시작하기 공식 문서 : [https://nextjs.org/learn/basics/create-nextjs-app](https://nextjs.org/learn/basics/create-nextjs-app)
 
