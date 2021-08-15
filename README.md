@@ -2,9 +2,10 @@
 
 ### 사용 기술
 
-- React
-- Typescript
 - Next.js
+- React
+- Context API
+- Typescript
 
 ## Next.js 이론 학습
 
@@ -312,5 +313,3 @@ Next.js 시작하기 공식 문서 : [https://nextjs.org/learn/basics/create-nex
 번역 참고 : [https://kimsangyeon.github.io/javascript/nextjs/2021/04/02/nextjs-data-fetching.html](https://kimsangyeon.github.io/javascript/nextjs/2021/04/02/nextjs-data-fetching.html)
 
 Next.js 공식 문서 : [https://nextjs.org/docs/getting-started](https://nextjs.org/docs/getting-started)
-
-🏃🏻‍♀️[깃허브 링크](https://github.com/josubin47/nextjs-todolist)
